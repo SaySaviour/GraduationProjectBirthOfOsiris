@@ -1,0 +1,4722 @@
+fileFormatVersion: 2
+guid: b70ab95b1efd0cd4cb11ef63bb7ff408
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2101845533867429240
+    second: Egyptian_TileMap_0
+  - first:
+      213: 2874387031334386709
+    second: Egyptian_TileMap_1
+  - first:
+      213: -7327015382006762881
+    second: Egyptian_TileMap_2
+  - first:
+      213: 6306781405431266271
+    second: Egyptian_TileMap_3
+  - first:
+      213: 1130344747406202809
+    second: Egyptian_TileMap_4
+  - first:
+      213: 4995305765922433327
+    second: Egyptian_TileMap_5
+  - first:
+      213: 8922207110924369461
+    second: Egyptian_TileMap_6
+  - first:
+      213: -1916165070945555198
+    second: Egyptian_TileMap_7
+  - first:
+      213: -3517152252435535983
+    second: Egyptian_TileMap_8
+  - first:
+      213: -772325888161987155
+    second: Egyptian_TileMap_9
+  - first:
+      213: -1321468296482558457
+    second: Egyptian_TileMap_10
+  - first:
+      213: 7341950879679102675
+    second: Egyptian_TileMap_11
+  - first:
+      213: -4960544189972060743
+    second: Egyptian_TileMap_12
+  - first:
+      213: 7894651783049967345
+    second: Egyptian_TileMap_13
+  - first:
+      213: 8151130237933384460
+    second: Egyptian_TileMap_14
+  - first:
+      213: -3002296054698973660
+    second: Egyptian_TileMap_15
+  - first:
+      213: -2859779170659604411
+    second: Egyptian_TileMap_16
+  - first:
+      213: -3404749602977047612
+    second: Egyptian_TileMap_17
+  - first:
+      213: -6007559161328079556
+    second: Egyptian_TileMap_18
+  - first:
+      213: 5344584877571997269
+    second: Egyptian_TileMap_19
+  - first:
+      213: -2529175240223108851
+    second: Egyptian_TileMap_20
+  - first:
+      213: -5949301034801426772
+    second: Egyptian_TileMap_21
+  - first:
+      213: 2216137656398488312
+    second: Egyptian_TileMap_22
+  - first:
+      213: -627926804734848263
+    second: Egyptian_TileMap_23
+  - first:
+      213: 5500031701877552655
+    second: Egyptian_TileMap_24
+  - first:
+      213: 5158522145647620904
+    second: Egyptian_TileMap_25
+  - first:
+      213: -643878960759055814
+    second: Egyptian_TileMap_26
+  - first:
+      213: -4734927478417045495
+    second: Egyptian_TileMap_27
+  - first:
+      213: -6490582592274476887
+    second: Egyptian_TileMap_28
+  - first:
+      213: -7344222242342405312
+    second: Egyptian_TileMap_29
+  - first:
+      213: 7495630083008152835
+    second: Egyptian_TileMap_30
+  - first:
+      213: -3852579113790857842
+    second: Egyptian_TileMap_31
+  - first:
+      213: 7922997237868947487
+    second: Egyptian_TileMap_32
+  - first:
+      213: 124070726345287633
+    second: Egyptian_TileMap_33
+  - first:
+      213: 758861569187668656
+    second: Egyptian_TileMap_34
+  - first:
+      213: 2931749681797621604
+    second: Egyptian_TileMap_35
+  - first:
+      213: -5669709960061966623
+    second: Egyptian_TileMap_36
+  - first:
+      213: 1607405206621822894
+    second: Egyptian_TileMap_37
+  - first:
+      213: -7090618357039747604
+    second: Egyptian_TileMap_38
+  - first:
+      213: 131102318059466054
+    second: Egyptian_TileMap_39
+  - first:
+      213: -4724691149648271118
+    second: Egyptian_TileMap_40
+  - first:
+      213: 5804459907513841831
+    second: Egyptian_TileMap_41
+  - first:
+      213: -8801935644539285147
+    second: Egyptian_TileMap_42
+  - first:
+      213: 7383779378038544636
+    second: Egyptian_TileMap_43
+  - first:
+      213: -1920342266942901196
+    second: Egyptian_TileMap_44
+  - first:
+      213: -682292240928076252
+    second: Egyptian_TileMap_45
+  - first:
+      213: 134939670777468150
+    second: Egyptian_TileMap_46
+  - first:
+      213: -1530368413270194601
+    second: Egyptian_TileMap_47
+  - first:
+      213: 6650200196355835426
+    second: Egyptian_TileMap_48
+  - first:
+      213: 2701422962168120205
+    second: Egyptian_TileMap_49
+  - first:
+      213: 2752063166267265364
+    second: Egyptian_TileMap_50
+  - first:
+      213: 5638456350933859528
+    second: Egyptian_TileMap_51
+  - first:
+      213: -3051863001005032512
+    second: Egyptian_TileMap_52
+  - first:
+      213: -7904946164817342344
+    second: Egyptian_TileMap_53
+  - first:
+      213: 658317541753738096
+    second: Egyptian_TileMap_54
+  - first:
+      213: 8069995960144507111
+    second: Egyptian_TileMap_55
+  - first:
+      213: -5045512242686040598
+    second: Egyptian_TileMap_56
+  - first:
+      213: -299791224342482240
+    second: Egyptian_TileMap_57
+  - first:
+      213: 4957109839158235829
+    second: Egyptian_TileMap_58
+  - first:
+      213: 5545817698806162963
+    second: Egyptian_TileMap_59
+  - first:
+      213: -5605584382842409662
+    second: Egyptian_TileMap_60
+  - first:
+      213: 2398783150559779978
+    second: Egyptian_TileMap_61
+  - first:
+      213: 5396924730310106328
+    second: Egyptian_TileMap_62
+  - first:
+      213: 6925746717858498920
+    second: Egyptian_TileMap_63
+  - first:
+      213: -7664462409468490007
+    second: Egyptian_TileMap_64
+  - first:
+      213: 8383465069468046531
+    second: Egyptian_TileMap_65
+  - first:
+      213: -8166887429427972728
+    second: Egyptian_TileMap_66
+  - first:
+      213: -2490644104457027455
+    second: Egyptian_TileMap_67
+  - first:
+      213: -1445593163107257843
+    second: Egyptian_TileMap_68
+  - first:
+      213: -1137104656067871366
+    second: Egyptian_TileMap_69
+  - first:
+      213: 7017580664485171726
+    second: Egyptian_TileMap_70
+  - first:
+      213: -610963634322893133
+    second: Egyptian_TileMap_71
+  - first:
+      213: 5419233919579517828
+    second: Egyptian_TileMap_72
+  - first:
+      213: -6104370109343560884
+    second: Egyptian_TileMap_73
+  - first:
+      213: 8191258066585767966
+    second: Egyptian_TileMap_74
+  - first:
+      213: -2678178028832612751
+    second: Egyptian_TileMap_75
+  - first:
+      213: -5377866002826445048
+    second: Egyptian_TileMap_76
+  - first:
+      213: -4062119169061722240
+    second: Egyptian_TileMap_77
+  - first:
+      213: -6207109838971028931
+    second: Egyptian_TileMap_78
+  - first:
+      213: -1016273068694078148
+    second: Egyptian_TileMap_79
+  - first:
+      213: -7252986850781784957
+    second: Egyptian_TileMap_80
+  - first:
+      213: -919536606120762993
+    second: Egyptian_TileMap_81
+  - first:
+      213: -2479991037276175746
+    second: Egyptian_TileMap_82
+  - first:
+      213: -4263201422541440025
+    second: Egyptian_TileMap_83
+  - first:
+      213: -9148199075170291135
+    second: Egyptian_TileMap_84
+  - first:
+      213: -9192406851583297075
+    second: Egyptian_TileMap_85
+  - first:
+      213: 6708436119889424663
+    second: Egyptian_TileMap_86
+  - first:
+      213: -5239281313528064011
+    second: Egyptian_TileMap_87
+  - first:
+      213: 8340148281810353372
+    second: Egyptian_TileMap_88
+  - first:
+      213: -3340327775105468182
+    second: Egyptian_TileMap_89
+  - first:
+      213: 5519957085944079428
+    second: Egyptian_TileMap_90
+  - first:
+      213: -8192592982631380234
+    second: Egyptian_TileMap_91
+  - first:
+      213: 2898517357003135802
+    second: Egyptian_TileMap_92
+  - first:
+      213: 7360849138054557053
+    second: Egyptian_TileMap_93
+  - first:
+      213: 4660825118883771182
+    second: Egyptian_TileMap_94
+  - first:
+      213: -4654105797739887467
+    second: Egyptian_TileMap_95
+  - first:
+      213: -5453706412661416218
+    second: Egyptian_TileMap_96
+  - first:
+      213: 7262712269940603206
+    second: Egyptian_TileMap_97
+  - first:
+      213: 65416066432928035
+    second: Egyptian_TileMap_98
+  - first:
+      213: 925018354081954768
+    second: Egyptian_TileMap_99
+  - first:
+      213: -465895392659563583
+    second: Egyptian_TileMap_100
+  - first:
+      213: -7106021557167118780
+    second: Egyptian_TileMap_101
+  - first:
+      213: 5893646299088136541
+    second: Egyptian_TileMap_102
+  - first:
+      213: 7781355621872763180
+    second: Egyptian_TileMap_103
+  - first:
+      213: -5146896057315277050
+    second: Egyptian_TileMap_104
+  - first:
+      213: 1014744699006341010
+    second: Egyptian_TileMap_105
+  - first:
+      213: -6499488480388059137
+    second: Egyptian_TileMap_106
+  - first:
+      213: -5467211895143707402
+    second: Egyptian_TileMap_107
+  - first:
+      213: -4273590633240771348
+    second: Egyptian_TileMap_108
+  - first:
+      213: -1265064043515514874
+    second: Egyptian_TileMap_109
+  - first:
+      213: -4374023830522150166
+    second: Egyptian_TileMap_110
+  - first:
+      213: 9078127970496068482
+    second: Egyptian_TileMap_111
+  - first:
+      213: 8205603888458451418
+    second: Egyptian_TileMap_112
+  - first:
+      213: 6919574741816837911
+    second: Egyptian_TileMap_113
+  - first:
+      213: -3514778508275606982
+    second: Egyptian_TileMap_114
+  - first:
+      213: -3260208603327005104
+    second: Egyptian_TileMap_115
+  - first:
+      213: 6632205072871687961
+    second: Egyptian_TileMap_116
+  - first:
+      213: -5507306958060439604
+    second: Egyptian_TileMap_117
+  - first:
+      213: -5428565117920752322
+    second: Egyptian_TileMap_118
+  - first:
+      213: 1237570362596846307
+    second: Egyptian_TileMap_119
+  - first:
+      213: -5895915573448492150
+    second: Egyptian_TileMap_120
+  - first:
+      213: 3548188504047260623
+    second: Egyptian_TileMap_121
+  - first:
+      213: -2245250565228565217
+    second: Egyptian_TileMap_122
+  - first:
+      213: 5385674547304784840
+    second: Egyptian_TileMap_123
+  - first:
+      213: -7736170668489048170
+    second: Egyptian_TileMap_124
+  - first:
+      213: 6006306531003994026
+    second: Egyptian_TileMap_125
+  - first:
+      213: 5203433299125548581
+    second: Egyptian_TileMap_126
+  - first:
+      213: 4106657753014617180
+    second: Egyptian_TileMap_127
+  - first:
+      213: -1774770599716687483
+    second: Egyptian_TileMap_128
+  - first:
+      213: -370184250814487134
+    second: Egyptian_TileMap_129
+  - first:
+      213: -962415256328063578
+    second: Egyptian_TileMap_130
+  - first:
+      213: -4076917484837506233
+    second: Egyptian_TileMap_131
+  - first:
+      213: 8264261683999537703
+    second: Egyptian_TileMap_132
+  - first:
+      213: -5102368392066590410
+    second: Egyptian_TileMap_133
+  - first:
+      213: 646519165396788046
+    second: Egyptian_TileMap_134
+  - first:
+      213: 3455296673547798942
+    second: Egyptian_TileMap_135
+  - first:
+      213: -8197094870416491048
+    second: Egyptian_TileMap_136
+  - first:
+      213: 4518989091421835762
+    second: Egyptian_TileMap_137
+  - first:
+      213: 2021807230840374631
+    second: Egyptian_TileMap_138
+  - first:
+      213: 5973195961385149668
+    second: Egyptian_TileMap_139
+  - first:
+      213: 8397736588375127635
+    second: Egyptian_TileMap_140
+  - first:
+      213: 7728594552811722626
+    second: Egyptian_TileMap_141
+  - first:
+      213: -3380043605306948708
+    second: Egyptian_TileMap_142
+  - first:
+      213: -8507410716712929369
+    second: Egyptian_TileMap_143
+  - first:
+      213: 5550092973296431138
+    second: Egyptian_TileMap_144
+  - first:
+      213: 1063955074260782647
+    second: Egyptian_TileMap_145
+  - first:
+      213: -8768613364442434296
+    second: Egyptian_TileMap_146
+  - first:
+      213: 4001680344635309224
+    second: Egyptian_TileMap_147
+  - first:
+      213: 6556778922013973360
+    second: Egyptian_TileMap_148
+  - first:
+      213: -2720422927242510418
+    second: Egyptian_TileMap_149
+  - first:
+      213: 2484702036259259471
+    second: Egyptian_TileMap_150
+  - first:
+      213: -4431237215021229448
+    second: Egyptian_TileMap_151
+  - first:
+      213: 976360508933138302
+    second: Egyptian_TileMap_152
+  - first:
+      213: -2156331530113864575
+    second: Egyptian_TileMap_153
+  - first:
+      213: -4489244304393296855
+    second: Egyptian_TileMap_154
+  - first:
+      213: 4813147950676995871
+    second: Egyptian_TileMap_155
+  - first:
+      213: 203382968194081602
+    second: Egyptian_TileMap_156
+  - first:
+      213: 3551311959445253781
+    second: Egyptian_TileMap_157
+  - first:
+      213: 2257669924444221355
+    second: Egyptian_TileMap_158
+  - first:
+      213: -8331898791915174024
+    second: Egyptian_TileMap_159
+  - first:
+      213: -138774383947115192
+    second: Egyptian_TileMap_160
+  - first:
+      213: -4300389049556410180
+    second: Egyptian_TileMap_161
+  - first:
+      213: 1159854808551322112
+    second: Egyptian_TileMap_162
+  - first:
+      213: 2969613299466084864
+    second: Egyptian_TileMap_163
+  - first:
+      213: -2781987289122012145
+    second: Egyptian_TileMap_164
+  - first:
+      213: 4785206517897461825
+    second: Egyptian_TileMap_165
+  - first:
+      213: -2659472913669263968
+    second: Egyptian_TileMap_166
+  - first:
+      213: -560562636358189199
+    second: Egyptian_TileMap_167
+  - first:
+      213: 3788694368970567467
+    second: Egyptian_TileMap_168
+  - first:
+      213: 6897979774506018903
+    second: Egyptian_TileMap_169
+  - first:
+      213: 8957849589931171041
+    second: Egyptian_TileMap_170
+  - first:
+      213: -1908106381688333844
+    second: Egyptian_TileMap_171
+  - first:
+      213: -1923034766394747995
+    second: Egyptian_TileMap_172
+  - first:
+      213: 3138581316258406725
+    second: Egyptian_TileMap_173
+  - first:
+      213: -1291527191125650206
+    second: Egyptian_TileMap_174
+  - first:
+      213: -1240160496893182041
+    second: Egyptian_TileMap_175
+  - first:
+      213: 6068223482738425022
+    second: Egyptian_TileMap_176
+  - first:
+      213: -7537855347932800126
+    second: Egyptian_TileMap_177
+  - first:
+      213: -8805288437997161349
+    second: Egyptian_TileMap_178
+  - first:
+      213: -4725060117111648626
+    second: Egyptian_TileMap_179
+  - first:
+      213: -396659665656111886
+    second: Egyptian_TileMap_180
+  - first:
+      213: -6700914269626370520
+    second: Egyptian_TileMap_181
+  - first:
+      213: 9127602008527721028
+    second: Egyptian_TileMap_182
+  - first:
+      213: 2941897043448760990
+    second: Egyptian_TileMap_183
+  - first:
+      213: 5898119333843338772
+    second: Egyptian_TileMap_184
+  - first:
+      213: 5574724721465831100
+    second: Egyptian_TileMap_185
+  - first:
+      213: -7572257318902545831
+    second: Egyptian_TileMap_186
+  - first:
+      213: 6432298783297034727
+    second: Egyptian_TileMap_187
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Egyptian_TileMap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dc8e280614b2d10800000000000000
+      internalID: 2101845533867429240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cfcad96cfd3e720800000000000000
+      internalID: 2874387031334386709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72f9ab8456315a90800000000000000
+      internalID: -7327015382006762881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbf4c20640368750800000000000000
+      internalID: 6306781405431266271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b710e61f8acfaf00800000000000000
+      internalID: 1130344747406202809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29644ab024e25540800000000000000
+      internalID: 4995305765922433327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e7c13781c02db70800000000000000
+      internalID: 8922207110924369461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d674f250a6865e0800000000000000
+      internalID: -1916165070945555198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1976d9c39a0903fc0800000000000000
+      internalID: -3517152252435535983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_9
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5444952b52845f0800000000000000
+      internalID: -772325888161987155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_10
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e6736f59339ade0800000000000000
+      internalID: -1321468296482558457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_11
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deb3adfc69d3e560800000000000000
+      internalID: 7341950879679102675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_12
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -63.312492}
+        - {x: -38.71874, y: -63.312492}
+        - {x: -37.31249, y: -61.906242}
+        - {x: -37.31249, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b56610675b982bb0800000000000000
+      internalID: -4960544189972060743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6f81218ff6f8d60800000000000000
+      internalID: 7894651783049967345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03f6fdc3c1ae1170800000000000000
+      internalID: 8151130237933384460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4266c1525a3b556d0800000000000000
+      internalID: -3002296054698973660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548e5ccfef50058d0800000000000000
+      internalID: -2859779170659604411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb96657646efb0d0800000000000000
+      internalID: -3404749602977047612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d65eda5ccd0aca0800000000000000
+      internalID: -6007559161328079556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e7a9b11a7cb2a40800000000000000
+      internalID: 5344584877571997269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_20
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d9c7e48096ecd0800000000000000
+      internalID: -2529175240223108851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_21
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae0cc6ca36df6da0800000000000000
+      internalID: -5949301034801426772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_22
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2aff6f47d41ce10800000000000000
+      internalID: 2216137656398488312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_23
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -63.343735}
+        - {x: -45, y: -55}
+        - {x: 43, y: 30}
+        - {x: 58, y: 42}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f255d2e5e72947f0800000000000000
+      internalID: -627926804734848263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_24
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -58, y: 46}
+        - {x: -2, y: -10}
+        - {x: 48, y: -61}
+        - {x: 64, y: -63.343735}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f067cc341b9045c40800000000000000
+      internalID: 5500031701877552655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_25
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823ff497f80c69740800000000000000
+      internalID: 5158522145647620904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_26
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3adb912f7b7017f0800000000000000
+      internalID: -643878960759055814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_27
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 38.62501, y: 64}
+        - {x: 41.045166, y: -61.433838}
+        - {x: 64, y: -63.343735}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90847bb8b882a4eb0800000000000000
+      internalID: -4734927478417045495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0552a5581dce5a0800000000000000
+      internalID: -6490582592274476887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b78ad28c4141a90800000000000000
+      internalID: -7344222242342405312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305ce61d8d3d50860800000000000000
+      internalID: 7495630083008152835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d186535b3e88ac0800000000000000
+      internalID: -3852579113790857842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18649f820424fd60800000000000000
+      internalID: 7922997237868947487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7e5d21ba9c8b100800000000000000
+      internalID: 124070726345287633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b260299394088a00800000000000000
+      internalID: 758861569187668656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_35
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46769e17dcaafa820800000000000000
+      internalID: 2931749681797621604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6230ba4d42151b0800000000000000
+      internalID: -5669709960061966623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_37
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf9eced486ae4610800000000000000
+      internalID: 1607405206621822894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced28c60c20199d90800000000000000
+      internalID: -7090618357039747604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_39
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d2a291dd4c1d100800000000000000
+      internalID: 131102318059466054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_40
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 48, y: 57}
+        - {x: -55, y: -40}
+        - {x: -64, y: -63.374977}
+        - {x: 64, y: -63.374977}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f868cf8e668e6eb0800000000000000
+      internalID: -4724691149648271118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_41
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -48, y: 60}
+        - {x: -64, y: 64}
+        - {x: -64, y: -63.374977}
+        - {x: 64, y: -63.374977}
+        - {x: 58, y: -48}
+        - {x: 17, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8fb5458859d8050800000000000000
+      internalID: 5804459907513841831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_42
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561136b7a2e39d580800000000000000
+      internalID: -8801935644539285147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_43
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf897df2934787660800000000000000
+      internalID: 7383779378038544636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_44
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43433b3f1e29955e0800000000000000
+      internalID: -1920342266942901196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_45
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e0a7262d20886f0800000000000000
+      internalID: -682292240928076252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_46
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -63.374977}
+        - {x: -28.937473, y: -63.374977}
+        - {x: -29, y: 38}
+        - {x: 64, y: 39.281273}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f49cc66ae66fd100800000000000000
+      internalID: 134939670777468150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_47
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: 39.281273}
+        - {x: 30, y: 39}
+        - {x: 30.15627, y: -63.374977}
+        - {x: 64, y: -63.374977}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7564d8f490a03cae0800000000000000
+      internalID: -1530368413270194601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_48
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: 39.281273}
+        - {x: 63.93751, y: 39.281273}
+        - {x: 64, y: 40.687523}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226c50528d14a4c50800000000000000
+      internalID: 6650200196355835426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d834d101fd16d7520800000000000000
+      internalID: 2701422962168120205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4511cc06eda413620800000000000000
+      internalID: 2752063166267265364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc35f66d22df3e40800000000000000
+      internalID: 5638456350933859528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbffe125ca95a5d0800000000000000
+      internalID: -3051863001005032512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870d975685dfb4290800000000000000
+      internalID: -7904946164817342344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073d3a9f050d22900800000000000000
+      internalID: 658317541753738096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_55
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0304fa1926eff60800000000000000
+      internalID: 8069995960144507111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_56
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae560d8f85dbaf9b0800000000000000
+      internalID: -5045512242686040598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_57
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c27946487de6dbf0800000000000000
+      internalID: -299791224342482240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_58
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2de9382213bc440800000000000000
+      internalID: 4957109839158235829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_59
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -63.40622}
+        - {x: -6.7187405, y: -63.40622}
+        - {x: -5.3124905, y: -61.99997}
+        - {x: -5.3124905, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3166a6660d3b6fc40800000000000000
+      internalID: 5545817698806162963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_60
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d633614b6f432b0800000000000000
+      internalID: -5605584382842409662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_61
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cde4ee0903a4120800000000000000
+      internalID: 2398783150559779978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_62
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc97a5b27ab5ea40800000000000000
+      internalID: 5396924730310106328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_63
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869884a12f13d1060800000000000000
+      internalID: 6925746717858498920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_64
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eecb41fb0c52a590800000000000000
+      internalID: -7664462409468490007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_65
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d98c201d085470800000000000000
+      internalID: 8383465069468046531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_66
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885b758272369ae80800000000000000
+      internalID: -8166887429427972728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_67
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1800beb02647f6dd0800000000000000
+      internalID: -2490644104457027455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_68
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -63.40622}
+        - {x: 64, y: -63.40622}
+        - {x: 60, y: -39}
+        - {x: -33, y: -40}
+        - {x: -28.937473, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02324f5da830fbe0800000000000000
+      internalID: -1445593163107257843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_69
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30.15627, y: 64}
+        - {x: 30, y: -35}
+        - {x: -64, y: -35.28122}
+        - {x: -64, y: -63.40622}
+        - {x: 64, y: -63.40622}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7db1a607513830f0800000000000000
+      internalID: -1137104656067871366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_70
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -35.28122}
+        - {x: -64, y: -63.40622}
+        - {x: 64, y: -63.40622}
+        - {x: 64, y: -36.68747}
+        - {x: 63.93751, y: -35.28122}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02d9410f64736160800000000000000
+      internalID: 7017580664485171726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b69085cfcb6587f0800000000000000
+      internalID: -610963634322893133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483f84b998cf43b40800000000000000
+      internalID: 5419233919579517828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b80175abbe84ba0800000000000000
+      internalID: -6104370109343560884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10d56affc13da170800000000000000
+      internalID: 8191258066585767966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_75
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e1d2ab54335dad0800000000000000
+      internalID: -2678178028832612751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f31e31d5bfd55b0800000000000000
+      internalID: -5377866002826445048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08765c4432470a7c0800000000000000
+      internalID: -4062119169061722240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_78
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: 8.281288}
+        - {x: -62.99998, y: 6.875038}
+        - {x: 63.562515, y: 6.875038}
+        - {x: 64, y: 8.281288}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3abc46fc7aebd9a0800000000000000
+      internalID: -6207109838971028931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_79
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5.9375095, y: 64}
+        - {x: 5.9375095, y: -62.03121}
+        - {x: 7.3437595, y: -63.43746}
+        - {x: 64, y: -63.43746}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d71b9470975e1f0800000000000000
+      internalID: -1016273068694078148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_80
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384929e13e6385b90800000000000000
+      internalID: -7252986850781784957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_81
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81243224562d33f0800000000000000
+      internalID: -919536606120762993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_82
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7240098a4d459dd0800000000000000
+      internalID: -2479991037276175746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_83
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb3a73c4e016d4c0800000000000000
+      internalID: -4263201422541440025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_84
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142faed09611b0180800000000000000
+      internalID: -9148199075170291135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_85
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9b2840ca20e6080800000000000000
+      internalID: -9192406851583297075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_86
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b864bb17291d50800000000000000
+      internalID: 6708436119889424663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_87
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f751dc77655a47b0800000000000000
+      internalID: -5239281313528064011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_88
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcf36f9ca82eb370800000000000000
+      internalID: 8340148281810353372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_89
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8b77b1695c4a1d0800000000000000
+      internalID: -3340327775105468182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_90
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 800
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444e81349b3da9c40800000000000000
+      internalID: 5519957085944079428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa06e8a6101e4e80800000000000000
+      internalID: -8192592982631380234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bd97fdd2a993820800000000000000
+      internalID: 2898517357003135802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d6bf6aa4df62660800000000000000
+      internalID: 7360849138054557053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23f84360c39ea040800000000000000
+      internalID: 4660825118883771182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594c0aa7f6b496fb0800000000000000
+      internalID: -4654105797739887467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_96
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eedb04a9ea8054b0800000000000000
+      internalID: -5453706412661416218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_97
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6493eab74565ac460800000000000000
+      internalID: 7262712269940603206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_98
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329865ad09768e000800000000000000
+      internalID: 65416066432928035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_99
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -63.468746}
+        - {x: 64, y: -63.468746}
+        - {x: 64, y: -4.406247}
+        - {x: -64, y: -4.406247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db75c5ca4356dc00800000000000000
+      internalID: 925018354081954768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_100
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -63.468746}
+        - {x: 64, y: -63.468746}
+        - {x: 64, y: -2.9999971}
+        - {x: -64, y: -4.406247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb190adb9ec889f0800000000000000
+      internalID: -465895392659563583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_101
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44629c60b07526d90800000000000000
+      internalID: -7106021557167118780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_102
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59a1f845107ac150800000000000000
+      internalID: 5893646299088136541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_103
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2107b0f5bdecfb60800000000000000
+      internalID: 7781355621872763180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_104
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6074dd72e4d8298b0800000000000000
+      internalID: -5146896057315277050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_105
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fcbf96de8151e00800000000000000
+      internalID: 1014744699006341010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_106
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffe9b0b9ad2dc5a0800000000000000
+      internalID: -6499488480388059137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_107
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc4b267fbf8024b0800000000000000
+      internalID: -5467211895143707402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_108
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce44f3626f721b4c0800000000000000
+      internalID: -4273590633240771348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_109
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600732c74f6917ee0800000000000000
+      internalID: -1265064043515514874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae242ae20885c43c0800000000000000
+      internalID: -4374023830522150166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bb4fa8a4dfbfd70800000000000000
+      internalID: 9078127970496068482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9412be24920e170800000000000000
+      internalID: 8205603888458451418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_113
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71702c2f094470060800000000000000
+      internalID: 6919574741816837911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_114
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a1e0e919ff83fc0800000000000000
+      internalID: -3514778508275606982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_115
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e75017c8961c2d0800000000000000
+      internalID: -3260208603327005104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_116
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9178f06ff535a0c50800000000000000
+      internalID: 6632205072871687961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_117
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc735c7208d1293b0800000000000000
+      internalID: -5507306958060439604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_118
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dc14a79ccd9a4b0800000000000000
+      internalID: -5428565117920752322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_119
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eae22710bbbc2110800000000000000
+      internalID: 1237570362596846307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_120
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bb8ea16008d2ea0800000000000000
+      internalID: -5895915573448492150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_121
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc39cd335a2bd3130800000000000000
+      internalID: 3548188504047260623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_122
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d6ecbb18447d0e0800000000000000
+      internalID: -2245250565228565217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_123
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3e6fb5772cdba40800000000000000
+      internalID: 5385674547304784840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_124
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff9e6d3c993a490800000000000000
+      internalID: -7736170668489048170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_125
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf0a9897ffaa5350800000000000000
+      internalID: 6006306531003994026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_126
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52631de340f463840800000000000000
+      internalID: 5203433299125548581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_127
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c544a86e777cdf830800000000000000
+      internalID: 4106657753014617180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_128
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581741eea8fbe57e0800000000000000
+      internalID: -1774770599716687483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a522cc9267dcdaf0800000000000000
+      internalID: -370184250814487134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a536286c60d4a2f0800000000000000
+      internalID: -962415256328063578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_131
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7437ea1e521eb67c0800000000000000
+      internalID: -4076917484837506233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72af9a5373e80b270800000000000000
+      internalID: 8264261683999537703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_133
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63990bd1bfeb039b0800000000000000
+      internalID: -5102368392066590410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_134
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 416
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4325f961c5e8f800800000000000000
+      internalID: 646519165396788046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_135
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 416
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99c764840ea3ff20800000000000000
+      internalID: 3455296673547798942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_136
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 416
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddf5aa35a11e3e80800000000000000
+      internalID: -8197094870416491048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_137
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 416
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f15012d2aca6be30800000000000000
+      internalID: 4518989091421835762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_138
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 416
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7658e86e6f6ee0c10800000000000000
+      internalID: 2021807230840374631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4e82c541e05e250800000000000000
+      internalID: 5973195961385149668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356766b1fe0ca8470800000000000000
+      internalID: 8397736588375127635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_141
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2879c554ccb714b60800000000000000
+      internalID: 7728594552811722626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_142
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93495ccf3ca711d0800000000000000
+      internalID: -3380043605306948708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_143
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a779fff60b9fe980800000000000000
+      internalID: -8507410716712929369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_144
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220b9bf4724e50d40800000000000000
+      internalID: 5550092973296431138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ec942c08de3ce00800000000000000
+      internalID: 1063955074260782647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_146
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8057aa76a90af4680800000000000000
+      internalID: -8768613364442434296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_147
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac76a65213d88730800000000000000
+      internalID: 4001680344635309224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_148
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b5965b0bb5efa50800000000000000
+      internalID: 6556778922013973360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafb1e6d2cd1f3ad0800000000000000
+      internalID: -2720422927242510418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f444ce3665f6b7220800000000000000
+      internalID: 2484702036259259471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a1b2b0b351182c0800000000000000
+      internalID: -4431237215021229448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77edabb5babc8d00800000000000000
+      internalID: 976360508933138302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_153
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ca699e5eb2312e0800000000000000
+      internalID: -2156331530113864575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_154
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92421b6171003b1c0800000000000000
+      internalID: -4489244304393296855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_155
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f608b5f8cbbc240800000000000000
+      internalID: 4813147950676995871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_156
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243a2946bbf82d200800000000000000
+      internalID: 203382968194081602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_157
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ea455596bc84130800000000000000
+      internalID: 3551311959445253781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_158
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafa49aa5dad45f10800000000000000
+      internalID: 2257669924444221355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_159
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877c36b61362f5c80800000000000000
+      internalID: -8331898791915174024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_160
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84598ecde69f21ef0800000000000000
+      internalID: -138774383947115192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_161
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0e531a1f2f154c0800000000000000
+      internalID: -4300389049556410180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_162
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002fabe9dc1a81010800000000000000
+      internalID: 1159854808551322112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_163
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002a3faef8f263920800000000000000
+      internalID: 2969613299466084864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_164
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f040b36dc456469d0800000000000000
+      internalID: -2781987289122012145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_165
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140892499f7786240800000000000000
+      internalID: 4785206517897461825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_166
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad68fab977a71bd0800000000000000
+      internalID: -2659472913669263968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_167
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f7381904b7838f0800000000000000
+      internalID: -560562636358189199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_168
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f63098475249430800000000000000
+      internalID: 3788694368970567467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758a24fce0c8abf50800000000000000
+      internalID: 6897979774506018903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecd937cdbca05c70800000000000000
+      internalID: 8957849589931171041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_171
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce99fcdfa5b0585e0800000000000000
+      internalID: -1908106381688333844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3905291120055e0800000000000000
+      internalID: -1923034766394747995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_173
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541a246041b7e8b20800000000000000
+      internalID: 3138581316258406725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_174
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4923bccd2931ee0800000000000000
+      internalID: -1291527191125650206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_175
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afb53649901acee0800000000000000
+      internalID: -1240160496893182041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_176
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcbe425b19a63450800000000000000
+      internalID: 6068223482738425022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_177
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bdf229f78246790800000000000000
+      internalID: -7537855347932800126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_178
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74335c61d45dc580800000000000000
+      internalID: -8805288437997161349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_179
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ec131abd63d6eb0800000000000000
+      internalID: -4725060117111648626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_180
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc97dbb228ce7af0800000000000000
+      internalID: -396659665656111886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_181
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826f29889f19103a0800000000000000
+      internalID: -6700914269626370520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_182
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442df69aaa1cbae70800000000000000
+      internalID: 9127602008527721028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_183
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a098036c7b3d820800000000000000
+      internalID: 2941897043448760990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_184
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4168898d8445ad150800000000000000
+      internalID: 5898119333843338772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_185
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe2f8719966d5d40800000000000000
+      internalID: 5574724721465831100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_186
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95246f68610f9e690800000000000000
+      internalID: -7572257318902545831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egyptian_TileMap_187
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d893e9ad144950800000000000000
+      internalID: 6432298783297034727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
